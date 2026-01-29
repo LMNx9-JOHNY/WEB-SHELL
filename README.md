@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/LMNx9-JOHNY/WEB-SHELL/refs/heads/main/preview.png" width="600">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=800&lines=LMNx9+SHELL+v1.6+⚡;Advanced+Web+Shell+Management+System;Red+%2F+Green+%2F+Black+Hacker+Theme" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=800&lines=LMNx9+WEB+SHELL+v1.6+⚡;Advanced+Web+Shell+Management+System" />
 </p>
 
 <p align="center">
@@ -13,7 +13,21 @@
 
 ---
 
-# 🔻 LMNx9 WEB SHELL — v1.6  
+<p align="center">
+  <a href="https://t.me/x_LMNx9">
+    <img src="https://img.shields.io/badge/Contact-Telegram-0ea5e9?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/+6hZVa9jGrIY4ZDRl">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Group-22c55e?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/19707808868">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🔻 LMNx9 SHELL — v1.6  
 
 > **Advanced File Management & Powerful Features**  
 > Fast • Powerful • Backdoor • Firewall • Bypass  
@@ -48,7 +62,7 @@
 
 ## 🔥 Open Source Access
 
- • For Source Access Or Collaboration:
+ • For Source Access Or Collaboration
 **Contact Developer : [DARK LMNx9](https://t.me/x_LMNx9)**
 
 ---
@@ -59,6 +73,26 @@ This project is intended for **educational purposes and authorized security test
 Do not use on systems without permission.
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+</p>
+
+---
+
+## 💬 Join Our Community
+<p align="center">
+  <a href="https://t.me/+6hZVa9jGrIY4ZDRl">
+    <img src="https://img.shields.io/badge/Join-Telegram_Group-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+</p>
+
+---
+
+<div align="center">
+⭐ Star this repo if you like our project! 
+🔔 Stay tuned for more updates!
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer"/>
