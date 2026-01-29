@@ -60,6 +60,16 @@
 
 ---
 
+## Usage & Guideline :
+
+ • Hidden Login Page
+    • lmnx9.php?login=hidden
+
+ • Direct Auth Access 
+    • lmnx9.php?access=lmnxsukhi
+
+---
+
 ## 🔥 Open Source Access
 
  • For Source Access Or Collaboration
@@ -69,14 +79,11 @@
 
 ## ⚠️ Disclaimer
 
-This project is intended for **educational purposes and authorized security testing only**.
-Do not use on systems without permission.
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
 </p>
+This project is intended for **educational purposes and authorized security testing only**.
+Do not use on systems without permission.
 
 ---
 
