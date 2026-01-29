@@ -56,7 +56,7 @@
 
 ## ⬇ Download Now ⚡
 
-👉 [LMNx9 SHELL v1.6](https://github.com/LMNx9-JOHNY/WEB-SHELL/tree/v1.6)
+👉 [LMNx9 SHELL v1.6](https://github.com/LMNx9-JOHNY/WEB-SHELL/blob/v1.6/lmnx9.php)
 
 ---
 
