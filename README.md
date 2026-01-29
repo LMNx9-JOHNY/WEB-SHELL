@@ -1,3 +1,5 @@
+🚀 LMNx9 WEB SHELL v1.6 — Modern Professional Redesign
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/LMNx9-JOHNY/WEB-SHELL/refs/heads/main/preview.png" width="700" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 255, 0, 0.15);">
 </p>
@@ -39,12 +41,10 @@
 
 ---
 
-🎯 Core Features Overview
+🎯 Shell Features Overview
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
-
 <div style="background: rgba(0, 255, 0, 0.05); padding: 20px; border-radius: 12px; border-left: 4px solid #00FF00;">
-<h3 style="color: #00FF00; margin-top: 0;">📁 File Management</h3>
 <ul style="color: #D1D5DB; list-style-type: none; padding-left: 0;">
 <li>• 📤 Upload Files to Server</li>
 <li>• 📥 Secure File Downloads</li>
@@ -52,12 +52,6 @@
 <li>• 📁 Create New Files & Folders</li>
 <li>• 🔄 Rename Files & Directories</li>
 <li>• 🔐 Permission Control & Chmod</li>
-</ul>
-</div>
-
-<div style="background: rgba(0, 255, 0, 0.05); padding: 20px; border-radius: 12px; border-left: 4px solid #00FF00;">
-<h3 style="color: #00FF00; margin-top: 0;">⚡ Advanced Tools</h3>
-<ul style="color: #D1D5DB; list-style-type: none; padding-left: 0;">
 <li>• ✏️ Built-in File Editor & Viewer</li>
 <li>• 💻 System Command Execution</li>
 <li>• 📦 Full Directory ZIP Download</li>
@@ -66,7 +60,20 @@
 <li>• 🛡️ Advanced Security Features</li>
 </ul>
 </div>
+</div>
 
+---
+
+📥 Download & Installation
+
+<div align="center" style="background: linear-gradient(135deg, #000000 0%, #065f46 100%); padding: 30px; border-radius: 16px; margin: 40px 0; border: 1px solid rgba(0, 255, 0, 0.2);">
+  <h2 style="color: #00FF00; margin: 0 0 20px 0;">⬇ Download Now</h2>
+  <a href="https://github.com/LMNx9-JOHNY/WEB-SHELL/tree/v1.6" style="display: inline-block; background: linear-gradient(135deg, #00FF00 0%, #059669 100%); color: black; padding: 15px 35px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 18px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(0, 255, 0, 0.3);">
+    ⚡ LMNx9 WEB SHELL v1.6
+  </a>
+  <p style="color: #9CA3AF; margin-top: 15px; font-size: 14px;">
+    Latest stable release • Professional edition
+  </p>
 </div>
 
 ---
@@ -74,7 +81,7 @@
 🔑 Access Methods
 
 <div align="center" style="background: rgba(0, 255, 0, 0.03); padding: 25px; border-radius: 12px; margin: 30px 0;">
-  <h3 style="color: #00FF00; margin-top: 0;">📱 Quick Access URLs</h3>
+  <h3 style="color: #00FF00; margin-top: 0;">Quick Access URLs</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
     <code style="background: #000000; color: #00FF00; padding: 10px 20px; border-radius: 8px; border: 1px solid #00FF00; font-family: 'Courier New', monospace;">
       lmnx9.php?login=hidden
@@ -87,20 +94,6 @@
 
 ---
 
-📥 Download & Installation
-
-<div align="center" style="background: linear-gradient(135deg, #000000 0%, #065f46 100%); padding: 30px; border-radius: 16px; margin: 40px 0; border: 1px solid rgba(0, 255, 0, 0.2);">
-  <h2 style="color: #00FF00; margin: 0 0 20px 0;">⬇️ Download Now</h2>
-  <a href="https://github.com/LMNx9-JOHNY/WEB-SHELL/tree/v1.6" style="display: inline-block; background: linear-gradient(135deg, #00FF00 0%, #059669 100%); color: black; padding: 15px 35px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 18px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(0, 255, 0, 0.3);">
-    ⚡ Download LMNx9 SHELL v1.6
-  </a>
-  <p style="color: #9CA3AF; margin-top: 15px; font-size: 14px;">
-    Latest stable release • Professional edition
-  </p>
-</div>
-
----
-
 👥 Developer & Community
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
@@ -109,7 +102,7 @@
 <h3 style="color: #00FF00; margin-top: 0;">🔧 Source Access</h3>
 <p style="color: #D1D5DB;">For collaboration or source code access:</p>
 <a href="https://t.me/x_LMNx9" style="color: #00FF00; text-decoration: none; font-weight: bold;">
-  @DARK LMNx9
+  DARK LMNx9
 </a>
 </div>
 
@@ -145,13 +138,10 @@
     Stay tuned for more updates and enhancements
   </p>
 </div>
-
----
-
 <div align="center" style="margin-top: 50px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer&animation=fadeIn" alt="Footer Wave" />
 </div>
 
 <p align="center" style="color: #00FF00; font-size: 18px; margin-top: 20px;">
-  © 2024 DARK TEAM LMNx9 • Professional Security Tools
-</
+  © 2026 DARK TEAM LMNx9 • WEB SHELL
+</p>
