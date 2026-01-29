@@ -1,5 +1,3 @@
-🚀 LMNx9 WEB SHELL v1.6 — Modern Professional Redesign
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/LMNx9-JOHNY/WEB-SHELL/refs/heads/main/preview.png" width="700" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 255, 0, 0.15);">
 </p>
@@ -138,6 +136,9 @@
     Stay tuned for more updates and enhancements
   </p>
 </div>
+
+---
+
 <div align="center" style="margin-top: 50px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer&animation=fadeIn" alt="Footer Wave" />
 </div>
